@@ -2,6 +2,16 @@
 
 A production-ready **Retrieval-Augmented Generation (RAG) Agent** for Azure FinOps powered by Azure OpenAI, Azure AI Search, and Azure AI Foundry.
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/finops-rag-agent/archive/refs/heads/main.zip).
+- [Setup script: setup.ps1](./setup.ps1) (download and extract the complete source ZIP first).
+- [Setup script: setup.sh](./setup.sh) (download and extract the complete source ZIP first).
+<!-- project-downloads:end -->
+
 ## Architecture Overview
 
 ```
@@ -471,3 +481,9 @@ MIT License - See LICENSE file
 ---
 
 **Built with ❤️ for the Azure FinOps community**
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
